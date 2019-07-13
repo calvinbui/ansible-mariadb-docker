@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.com/calvinbui/ansible-mariadb-docker.svg?branch=master)](https://travis-ci.com/calvinbui/ansible-mariadb-docker)
+![GitHub release](https://img.shields.io/github/release/calvinbui/ansible-mariadb-docker.svg)
+![Ansible Quality Score](https://img.shields.io/ansible/quality/41440.svg)
+![Ansible Role](https://img.shields.io/ansible/role/d/41440.svg)
+
 # Ansible MariaDB
 
 MariaDB in Docker

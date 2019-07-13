@@ -9,7 +9,7 @@ lint:
     config-data:
       line-length: disable
 platforms:
-  - name: ansible-traefik-docker
+  - name: ansible-mariadb-docker
     image: geerlingguy/docker-ubuntu1804-ansible
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
